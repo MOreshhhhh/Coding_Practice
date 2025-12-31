@@ -1,0 +1,5 @@
+{
+    "java.completion.postfix.enabled": false,
+    "java.completion.enabled": false,
+    "java.completion.lazyResolveTextEdit.enabled": false
+}

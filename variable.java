@@ -5,6 +5,6 @@ public class variable {
         double cgpa = 9.9;
         boolean val = true;
 
-        System.out.println("My name is " + name + "\nAge is " + age + "\nCGPA is " + cgpa + "\nLearning java  " + val);
+        System.out.println("My name is " + name + "\nAge is " + age + "\nCGPA is " + cgpa + "\nLearning java " + val);
     }
 }
